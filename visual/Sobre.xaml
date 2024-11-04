@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hotel.visual.Sobre"
+             Title="Sobre">
+
+
+    <VerticalStackLayout>
+
+        <VerticalStackLayout>
+            <Label Text="Este aplicatico foi desenvolvido com intuito de facilitar reservas em Hotéis aos usúarios ."
+                   TextColor="{StaticResource SecondaryDarkText}"
+                   FontSize="25"
+                   FontFamily="Coda"
+                   Margin="10"/>
+        </VerticalStackLayout>
+        <VerticalStackLayout
+            Padding="80">
+
+        </VerticalStackLayout>
+
+        <VerticalStackLayout VerticalOptions="CenterAndExpand"
+                             Padding="10">
+            <Label Text="Desenvolvedor : Jefferson Gonçalves"/>
+            <Label Text="Versão : 1.1.0"/>
+            <Label Text="Compatibilidade com : Android e IOS"/>
+            <Label Text="Tamanho do download : 11,5 MB"/>
+            <Label Text="Atualizado em  03 de Novembro de 2024"
+                    Margin="40"/>
+        </VerticalStackLayout>
+
+    </VerticalStackLayout>
+
+
+</ContentPage>
