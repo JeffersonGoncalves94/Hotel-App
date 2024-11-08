@@ -477,13 +477,4 @@ C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-
 C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagem_hotel.scale-200.png
 C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagem_hotel.scale-150.png
 C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagem_hotel.scale-125.png
-C:\Users\jeffe\Desktop\projeto\hotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sobre_imagem.scale-400.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sobre_imagem.scale-200.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sobre_imagem.scale-150.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sobre_imagem.scale-125.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sobre_imagem.scale-100.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sobre_imagem.scale-400.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sobre_imagem.scale-200.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sobre_imagem.scale-150.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sobre_imagem.scale-125.jpg
-C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sobre_imagem.scale-100.jpg
+C:\Users\jeffe\Desktop\projeto\hotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\hotel.sourcelink.json

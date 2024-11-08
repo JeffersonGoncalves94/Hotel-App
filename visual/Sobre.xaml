@@ -5,17 +5,18 @@
              Title="Sobre">
 
 
-    <VerticalStackLayout>
+    <VerticalStackLayout
+         BackgroundColor="#FF025038">
 
         <VerticalStackLayout>
             <Label Text="Este aplicatico foi desenvolvido com intuito de facilitar reservas em Hotéis aos usúarios ."
-                   TextColor="{StaticResource SecondaryDarkText}"
+                   TextColor="{StaticResource Secondary}"
                    FontSize="25"
                    FontFamily="Coda"
                    Margin="10"/>
         </VerticalStackLayout>
         <VerticalStackLayout
-            Padding="80">
+            Padding="90">
 
         </VerticalStackLayout>
 
@@ -25,8 +26,8 @@
             <Label Text="Versão : 1.1.0"/>
             <Label Text="Compatibilidade com : Android e IOS"/>
             <Label Text="Tamanho do download : 11,5 MB"/>
-            <Label Text="Atualizado em  03 de Novembro de 2024"
-                    Margin="40"/>
+            <Label Text="Atualizado em  11 de Novembro de 2024"
+                   Margin="40"/>
         </VerticalStackLayout>
 
     </VerticalStackLayout>

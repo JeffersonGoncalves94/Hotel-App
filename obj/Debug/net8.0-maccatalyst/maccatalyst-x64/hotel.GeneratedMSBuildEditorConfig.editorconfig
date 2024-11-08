@@ -52,6 +52,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = hotel.visual.ContratacaoHo
 build_metadata.AdditionalFiles.TargetPath = visual\ContratacaoHospedage.xaml
 build_metadata.AdditionalFiles.RelativePath = visual\ContratacaoHospedage.xaml
 
+[C:/Users/jeffe/Desktop/projeto/hotel/visual/HospedagemContratada.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hotel.visual.HospedagemContratada.xaml
+build_metadata.AdditionalFiles.TargetPath = visual\HospedagemContratada.xaml
+build_metadata.AdditionalFiles.RelativePath = visual\HospedagemContratada.xaml
+
 [C:/Users/jeffe/Desktop/projeto/hotel/visual/Sobre.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = hotel.visual.Sobre.xaml
