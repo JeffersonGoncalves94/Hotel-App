@@ -46,20 +46,20 @@ build_metadata.AdditionalFiles.ManifestResourceName = hotel.Resources.Styles.Sty
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/jeffe/Desktop/projeto/hotel/visual/ContratacaoHospedage.xaml]
+[C:/Users/jeffe/Desktop/projeto/hotel/Visual/ContratacaoHospedage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = hotel.visual.ContratacaoHospedage.xaml
-build_metadata.AdditionalFiles.TargetPath = visual\ContratacaoHospedage.xaml
-build_metadata.AdditionalFiles.RelativePath = visual\ContratacaoHospedage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hotel.Visual.ContratacaoHospedage.xaml
+build_metadata.AdditionalFiles.TargetPath = Visual\ContratacaoHospedage.xaml
+build_metadata.AdditionalFiles.RelativePath = Visual\ContratacaoHospedage.xaml
 
-[C:/Users/jeffe/Desktop/projeto/hotel/visual/HospedagemContratada.xaml]
+[C:/Users/jeffe/Desktop/projeto/hotel/Visual/HospedagemContratada.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = hotel.visual.HospedagemContratada.xaml
-build_metadata.AdditionalFiles.TargetPath = visual\HospedagemContratada.xaml
-build_metadata.AdditionalFiles.RelativePath = visual\HospedagemContratada.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hotel.Visual.HospedagemContratada.xaml
+build_metadata.AdditionalFiles.TargetPath = Visual\HospedagemContratada.xaml
+build_metadata.AdditionalFiles.RelativePath = Visual\HospedagemContratada.xaml
 
-[C:/Users/jeffe/Desktop/projeto/hotel/visual/Sobre.xaml]
+[C:/Users/jeffe/Desktop/projeto/hotel/Visual/Sobre.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = hotel.visual.Sobre.xaml
-build_metadata.AdditionalFiles.TargetPath = visual\Sobre.xaml
-build_metadata.AdditionalFiles.RelativePath = visual\Sobre.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = hotel.Visual.Sobre.xaml
+build_metadata.AdditionalFiles.TargetPath = Visual\Sobre.xaml
+build_metadata.AdditionalFiles.RelativePath = Visual\Sobre.xaml

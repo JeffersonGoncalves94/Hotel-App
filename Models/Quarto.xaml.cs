@@ -1,4 +1,7 @@
-namespace MauiAppLogin.Models;
+using hotel.Models;
+
+namespace hotel.Models
+{
 
 public class Quarto
 {
@@ -7,4 +10,5 @@ public class Quarto
 
     public double ValorDiariaCrianca { get; set; }
 
+}
 }

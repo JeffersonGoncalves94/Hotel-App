@@ -1,5 +1,4 @@
-﻿
-using MauiAppLogin.Models;
+﻿using hotel.Models;
 using Microsoft.Maui.Controls;
 
 namespace hotel;
@@ -31,7 +30,7 @@ public partial class App : Application
 		Descricao = "Suíte Crise",
 		ValorDiariaAdulto = 25,
 		ValorDiariaCrianca = 12.5
-	},
+	}
 
 	};
 
@@ -39,8 +38,9 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new NavigationPage(new hotel.visual.ContratacaoHospedagem());
+		MainPage = new NavigationPage(new hotel.Visual.ContratacaoHospedagem());
 	}
+
     protected override Window CreateWindow(IActivationState? activationState)
     {
 		var Window = base.CreateWindow(activationState);

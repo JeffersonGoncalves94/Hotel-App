@@ -1,4 +1,6 @@
-namespace hotel.visual;
+using hotel.Models;
+namespace hotel.Visual;
+
 
 public partial class ContratacaoHospedagem : ContentPage
 {
@@ -24,15 +26,27 @@ public partial class ContratacaoHospedagem : ContentPage
 		await Navigation.PushAsync(new Sobre());
 	}
 
-	private void Button_Clicked(object sender, EventArgs e)
+	private async void Button_Clicked(object sender, EventArgs e)
     {
 		try
+		{	
+			Hospedagem h = new Hospedagem
 		{
-			 Navigation.PushAsync(new HospedagemContratada());
+			QuartoSelecionado = (Quarto)pck_quarto.SelectedItem,
+			QntAdultos = Convert.ToInt32(stp_adultos.Value),
+			QntCriancas = Convert.ToInt32(stp_criancas.Value),
+			DataCheckIn = dtpck_checkin.Date,
+			DataCheckOut = dtpck_checkout.Date,
+		};
+
+			await Navigation.PushAsync(new HospedagemContratada()
+			{
+				BindingContext = h
+			});
 		}
 		catch (Exception ex)
 		{
-			DisplayAlert("Ops", ex.Message,"OK");
+			await DisplayAlert("Ops", ex.Message,"OK");
 		}
     }
 

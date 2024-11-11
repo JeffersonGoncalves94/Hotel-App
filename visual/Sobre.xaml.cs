@@ -1,4 +1,4 @@
-namespace hotel.visual;
+namespace hotel.Visual;
 
 public partial class Sobre : ContentPage
 {
